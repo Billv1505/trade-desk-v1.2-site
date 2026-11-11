@@ -1,0 +1,1 @@
+var e=`Simulated demo only. No card is collected, no payment processor is contacted, and no money moves.`;export{e as t};
